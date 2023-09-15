@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Signup Login Firebase</string>
+
+
+    <string name="your_score">Your Score</string>
+    <string name="yasir_arafat">Yasir Arafat</string>
+    <string name="yasirarafat_gmail_com">yasirarafat@gmail.com</string>
+    <string name="gajendra_pradhan"> </string>
+    <string name="gajenpradhan18_gmail_com"> </string>
+    <string name="quizapp">QuizApp</string>
+</resources>
